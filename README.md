@@ -16,7 +16,7 @@
 | 목록 | URL |
 | ------ | ------ |
 | Lazy V(H) Grid | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Lazy-V(H)-Grid |
-| Geometry | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Layout-and-Geometry |
+| Geometry | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Geometry |
 
 
 ## 아키텍처
