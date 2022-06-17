@@ -18,7 +18,7 @@
 | Lazy V(H) Grid | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Lazy-V(H)-Grid |
 | Geometry | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Geometry |
 | UIRepresentable | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/UIRepresentable |
-| ConnectorCoordinator(보류) | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ConnectorCoordinator |
+| ConnectorCoordinator(보류중) | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ConnectorCoordinator |
 
 
 ## 아키텍처
