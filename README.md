@@ -19,7 +19,7 @@
 | Geometry | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Geometry |
 | UIRepresentable | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/UIRepresentable |
 | ConnectorCoordinator(보류중) | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ConnectorCoordinator |
-| List | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ConnectorCoordinator |
+| List | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/List |
 
 
 ## 아키텍처
