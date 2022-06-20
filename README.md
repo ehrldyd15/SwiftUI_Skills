@@ -21,7 +21,7 @@
 | ConnectorCoordinator(보류중) | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ConnectorCoordinator |
 | List | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/List |
 | Custom Modifier | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Custom-Modifier |
-| Modifier의 순서 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Custom-Modifier |
+| Modifier의 순서 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Modifier%EC%9D%98-%EC%88%9C%EC%84%9C |
 
 
 ## 아키텍처
