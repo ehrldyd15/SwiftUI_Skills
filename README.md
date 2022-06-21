@@ -10,7 +10,6 @@
 | ObservedObject & EnvironmentObject | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ObservedObject-&-EnvironmentObject |
 | State Property | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
 
-
 ## UI
 
 | 목록 | URL |
