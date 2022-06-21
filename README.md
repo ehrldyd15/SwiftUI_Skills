@@ -22,7 +22,7 @@
 | Custom Modifier | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Custom-Modifier |
 | Modifier의 순서 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Modifier%EC%9D%98-%EC%88%9C%EC%84%9C |
 | Button의 Tappable 영역 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Button%EC%9D%98-Tappable-%EC%98%81%EC%97%AD |
-| ZStack vs Overlay | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Button%EC%9D%98-Tappable-%EC%98%81%EC%97%AD |
+| ZStack vs Overlay | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ZStack-vs-Overlay |
 
 ## 아키텍처
 
