@@ -5,7 +5,7 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| UIKit와 SwiftUI의 차이 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
+| UIKit와 SwiftUI의 차이 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/UIKit%EC%99%80-SwiftUI%EC%9D%98-%EC%B0%A8%EC%9D%B4 |
 | ForEach | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ForEach |
 | Life Cycle | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Life-cycle |
 | ObservedObject & EnvironmentObject | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ObservedObject-&-EnvironmentObject |
