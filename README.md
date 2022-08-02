@@ -35,5 +35,3 @@
 | 목록 | URL |
 | ------ | ------ |
 | IVO Architecture | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/IVO-Architecture |
-
-
