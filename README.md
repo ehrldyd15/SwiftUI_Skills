@@ -11,6 +11,7 @@
 | ObservedObject & EnvironmentObject | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ObservedObject-&-EnvironmentObject |
 | State Property | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
 | some 키워드 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/some-%ED%82%A4%EC%9B%8C%EB%93%9C |
+| 앱의 구조 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/some-%ED%82%A4%EC%9B%8C%EB%93%9C |
 
 ## UI
 
