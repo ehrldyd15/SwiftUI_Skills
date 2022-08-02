@@ -12,6 +12,7 @@
 | State Property | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
 | some 키워드 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/some-%ED%82%A4%EC%9B%8C%EB%93%9C |
 | 앱의 구조 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/%EC%95%B1%EC%9D%98-%EA%B5%AC%EC%A1%B0-(App,-Scene,-WindowGroup,-ContentView) |
+| View Protocol (뷰 프로토콜) | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/%EC%95%B1%EC%9D%98-%EA%B5%AC%EC%A1%B0-(App,-Scene,-WindowGroup,-ContentView) |
 
 ## UI
 
