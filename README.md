@@ -10,6 +10,7 @@
 | Life Cycle | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Life-cycle |
 | ObservedObject & EnvironmentObject | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ObservedObject-&-EnvironmentObject |
 | State Property | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
+| some 키워드 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/State-Property |
 
 ## UI
 
