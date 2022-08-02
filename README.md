@@ -26,7 +26,7 @@
 | Button의 Tappable 영역 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Button%EC%9D%98-Tappable-%EC%98%81%EC%97%AD |
 | ZStack vs Overlay | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/ZStack-vs-Overlay |
 | @ViewBuilder 와 AnyView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/@ViewBuilder-%EC%99%80-AnyView |
-| TextField, @FocusState | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/TextField,-onSubmit,-textFieldStyle,-@FocusState-TextField-ViewModifier-%EA%B0%9C%EB%85%90 |
+| TextField, onSubmit, textFieldStyle, @FocusState TextField ViewModifier | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/TextField,-onSubmit,-textFieldStyle,-@FocusState-TextField-ViewModifier-%EA%B0%9C%EB%85%90 |
 
 ## 아키텍처
 
