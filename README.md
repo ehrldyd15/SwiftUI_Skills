@@ -30,6 +30,7 @@
 | @ViewBuilder 와 AnyView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/@ViewBuilder-%EC%99%80-AnyView |
 | TextField, onSubmit, textFieldStyle, @FocusState TextField ViewModifier | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/TextField,-onSubmit,-textFieldStyle,-@FocusState-TextField-ViewModifier-%EA%B0%9C%EB%85%90 |
 | App, Scene, View | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/App,-Scene,-View |
+| NavigationView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/App,-Scene,-View |
 
 ## 아키텍처
 
