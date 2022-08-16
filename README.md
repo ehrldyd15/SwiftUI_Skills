@@ -32,6 +32,7 @@
 | App, Scene, View | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/App,-Scene,-View |
 | NavigationView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/NavigationView |
 | Form, Group, GroupBox, Section | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Form,-Group,-GroupBox,-Section |
+| Widget | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Form,-Group,-GroupBox,-Section |
 
 ## 아키텍처
 
