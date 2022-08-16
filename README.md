@@ -33,6 +33,7 @@
 | NavigationView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/NavigationView |
 | Form, Group, GroupBox, Section | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Form,-Group,-GroupBox,-Section |
 | Widget | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget |
+| Widget 2 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget |
 
 ## 아키텍처
 
