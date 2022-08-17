@@ -35,7 +35,7 @@
 | Widget 세팅 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/WidgetWidget-%EC%84%B8%ED%8C%85 |
 | Widget Protocol, WidgetConfiguration, EntryView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-Protocol,-WidgetConfiguration,-EntryView |
 | Widget TimelineEntry, TimelineProvider, TimelineReloadPolicy | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineEntry,-TimelineProvider,-TimelineReloadPolicy |
-| Widget TimelineProviderContext | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineEntry,-TimelineProvider,-TimelineReloadPolicy |
+| Widget TimelineProviderContext | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineProviderContext |
 
 ## 아키텍처
 
