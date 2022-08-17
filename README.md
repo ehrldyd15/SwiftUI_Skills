@@ -32,10 +32,15 @@
 | App, Scene, View | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/App,-Scene,-View |
 | NavigationView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/NavigationView |
 | Form, Group, GroupBox, Section | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Form,-Group,-GroupBox,-Section |
-| Widget 세팅 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/WidgetWidget-%EC%84%B8%ED%8C%85 |
+
+## Widget
+
+| 목록 | URL |
+| ------ | ------ |
+| 세팅 | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/WidgetWidget-%EC%84%B8%ED%8C%85 |
 | Widget Protocol, WidgetConfiguration, EntryView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-Protocol,-WidgetConfiguration,-EntryView |
-| Widget TimelineEntry, TimelineProvider, TimelineReloadPolicy | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineEntry,-TimelineProvider,-TimelineReloadPolicy |
-| Widget TimelineProviderContext | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineProviderContext |
+| TimelineEntry, TimelineProvider, TimelineReloadPolicy | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineEntry,-TimelineProvider,-TimelineReloadPolicy |
+| TimelineProviderContext | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineProviderContext |
 
 ## 아키텍처
 
