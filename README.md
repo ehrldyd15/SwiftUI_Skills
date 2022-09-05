@@ -41,7 +41,7 @@
 | Widget Protocol, WidgetConfiguration, EntryView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-Protocol,-WidgetConfiguration,-EntryView |
 | TimelineEntry, TimelineProvider, TimelineReloadPolicy | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineEntry,-TimelineProvider,-TimelineReloadPolicy |
 | TimelineProviderContext | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineProviderContext |
-| WidgetCenter | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Widget-TimelineProviderContext |
+| WidgetCenter | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/WidgetCenter |
 
 ## 아키텍처
 
