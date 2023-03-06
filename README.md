@@ -33,6 +33,7 @@
 | NavigationView | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/NavigationView |
 | Form, Group, GroupBox, Section | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Form,-Group,-GroupBox,-Section |
 | Layout Algorithm | https://github.com/ehrldyd15/SwiftUI_Skills/wiki/Layout-Algorithm |
+| Bezier path | https://seons-dev.tistory.com/entry/SwiftUI-Path |
 
 ## Widget
 
